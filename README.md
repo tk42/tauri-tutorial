@@ -10,6 +10,8 @@ $ yarn dev
 
 Open [http://localhost:1420/](http://localhost:1420/)
 
+**Note that the environment variable 'TAURI_DEV_HOST' is set**
+
 ## To run the app for development on the browser
 ```
 $ cd ./tauri-app
