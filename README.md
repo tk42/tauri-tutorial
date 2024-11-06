@@ -23,3 +23,5 @@ $ ./build.sh
 ```
 
 ![build_exe_successful.png](./build_exe_successful.png)
+
+![capture.png](./capture.png)
