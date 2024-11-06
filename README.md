@@ -22,3 +22,4 @@ $ cd ./tauri-app
 $ ./build.sh
 ```
 
+![build_exe_successful.png](./build_exe_successful.png)
